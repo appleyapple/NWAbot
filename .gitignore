@@ -1,8 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
-/node_modules
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
 
-# misc
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Misc
 config.py
-
